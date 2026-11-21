@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Philipo",
+  "greetingText": "Hope your day is as bright as you are!",
+  "wishText": "May this year be your best one yet! 🎉",
+  "images": ["img/philipo.jpeg", "img/photo-1.jpeg", "img/photo-2.jpeg", "img/photo-3.jpeg", "img/photo-4.jpeg", "img/photo-5.jpeg"],
+  "text1": "It’s your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Wishing you cake, laughter and a year full of good things.",
+  "sendButtonLabel": "Send",
+  "text2": "I almost sent a quick text.",
+  "text3": "But then I paused.",
+  "text4": "I realised I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "you are one of a kind",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, that’s everything I’ve got.",
+  "replayText": "Click here to watch it again.",
+  "outroSmiley": ":)"
+}

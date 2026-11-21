@@ -1,0 +1,7 @@
+{
+  "name": "birthday-wish",
+  "version": "1.0.0",
+  "description": "Animated birthday wish with an auto-shuffling photo set.",
+  "scripts": { "start": "npx serve ." },
+  "license": "MIT"
+}
